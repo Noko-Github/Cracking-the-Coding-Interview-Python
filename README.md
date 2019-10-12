@@ -2,9 +2,11 @@
 
 ## Introduction
 
-This repository is solutions of [Cracking the Code Interview 6th Edition][1], by Gayle Laakmann McDowell, written in python code.
+This repository is solutions of [Cracking the Code Interview 6th Edition][1],  
+by Gayle Laakmann McDowell, written in python code.
 
-If you give me any improvements and alternative solutions, I would appreciate. I hope this reopsitory help you in some way.
+If you give me any improvements and alternative solutions,  
+I would appreciate. I hope this reopsitory help you in some way.
 
 ## Progress
 
