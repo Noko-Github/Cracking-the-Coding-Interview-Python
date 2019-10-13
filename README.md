@@ -13,7 +13,7 @@ I would appreciate. I hope this reopsitory help you in some way.
 -   chapter-01 (0/0 completed)
 -   chapter-02 (0/0 completed)
 -   chapter-03 (0/0 completed)
--   chapter-04 (0/0 completed)
+-   chapter-04 (1/11) completed)
 -   chapter-05 (0/0 completed)
 -   chapter-06 (0/0 completed)
 -   chapter-07 (0/0 completed)
