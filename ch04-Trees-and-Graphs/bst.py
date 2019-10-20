@@ -12,10 +12,10 @@ class BST:
     def __init__(self, value_list=[]):
         self.root = None
         for value in value_list:
-            node = Node(value)
-            self.insert(node)
+            self.insert(value)
 
-    def insert(self, node):
+    def insert(self, value):
+        node = Node(value)
         if self.root is None:
             self.root = node
         else:
