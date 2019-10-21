@@ -10,23 +10,23 @@ I would appreciate. I hope this reopsitory help you in some way.
 
 ## Progress
 
--   chapter-01 (0/0 completed)
--   chapter-02 (0/0 completed)
--   chapter-03 (0/0 completed)
--   chapter-04 (2/11) completed)
--   chapter-05 (0/0 completed)
--   chapter-06 (0/0 completed)
--   chapter-07 (0/0 completed)
--   chapter-08 (0/0 completed)
--   chapter-09 (0/0 completed)
--   chapter-10 (0/0 completed)
--   chapter-11 (0/0 completed)
--   chapter-12 (0/0 completed)
--   chapter-13 (0/0 completed)
--   chapter-14 (0/0 completed)
--   chapter-15 (0/0 completed)
--   chapter-16 (0/0 completed)
--   chapter-17 (0/0 completed)
+-   chapter-01 --- 00/00 completed
+-   chapter-02 --- 00/00 completed
+-   chapter-03 --- 00/00 completed
+-   chapter-04 --- 07/11 completed
+-   chapter-05 --- 00/00 completed
+-   chapter-06 --- 00/00 completed
+-   chapter-07 --- 00/00 completed
+-   chapter-08 --- 00/00 completed
+-   chapter-09 --- 00/00 completed
+-   chapter-10 --- 00/00 completed
+-   chapter-11 --- 00/00 completed
+-   chapter-12 --- 00/00 completed
+-   chapter-13 --- 00/00 completed
+-   chapter-14 --- 00/00 completed
+-   chapter-15 --- 00/00 completed
+-   chapter-16 --- 00/00 completed
+-   chapter-17 --- 00/00 completed
 
 <!---
   url links
