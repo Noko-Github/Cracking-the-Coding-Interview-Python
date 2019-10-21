@@ -13,7 +13,7 @@ I would appreciate. I hope this reopsitory help you in some way.
 -   chapter-01 --- 00/00 completed
 -   chapter-02 --- 00/00 completed
 -   chapter-03 --- 00/00 completed
--   chapter-04 --- 07/11 completed
+-   [chapter-04][4] --- 07/11 completed
 -   chapter-05 --- 00/00 completed
 -   chapter-06 --- 00/00 completed
 -   chapter-07 --- 00/00 completed
@@ -33,3 +33,19 @@ I would appreciate. I hope this reopsitory help you in some way.
 -->
 
 [1]: https://www.amazon.com/dp/0984782850/ref=cm_sw_r_cp_ep_dp_VrEkzbJNJGZKX
+[4]: https://github.com/Noko-Github/Cracking-the-Coding-Interview-6th-Python/tree/master/ch04-Trees-and-Graphs
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
