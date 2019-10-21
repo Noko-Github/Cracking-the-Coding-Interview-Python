@@ -39,5 +39,5 @@ class BST:
 
     def add_random_nodes(self, num_nodes=100, min_value=1, max_value=1000):
         for _ in range(num_nodes):
-            current_node = Node(randint(min_value, max_value))
-            self.insert(current_node)
+            value = randint(min_value, max_value)
+            self.insert(value)
