@@ -10,26 +10,42 @@ I would appreciate. I hope this reopsitory help you in some way.
 
 ## Progress
 
--   chapter-01 (0/0 completed)
--   chapter-02 (0/0 completed)
--   chapter-03 (0/0 completed)
--   chapter-04 (2/11) completed)
--   chapter-05 (0/0 completed)
--   chapter-06 (0/0 completed)
--   chapter-07 (0/0 completed)
--   chapter-08 (0/0 completed)
--   chapter-09 (0/0 completed)
--   chapter-10 (0/0 completed)
--   chapter-11 (0/0 completed)
--   chapter-12 (0/0 completed)
--   chapter-13 (0/0 completed)
--   chapter-14 (0/0 completed)
--   chapter-15 (0/0 completed)
--   chapter-16 (0/0 completed)
--   chapter-17 (0/0 completed)
+-   chapter-01 --- 00/00 completed
+-   chapter-02 --- 00/00 completed
+-   chapter-03 --- 00/00 completed
+-   [chapter-04][4] --- 07/11 completed
+-   chapter-05 --- 00/00 completed
+-   chapter-06 --- 00/00 completed
+-   chapter-07 --- 00/00 completed
+-   chapter-08 --- 00/00 completed
+-   chapter-09 --- 00/00 completed
+-   chapter-10 --- 00/00 completed
+-   chapter-11 --- 00/00 completed
+-   chapter-12 --- 00/00 completed
+-   chapter-13 --- 00/00 completed
+-   chapter-14 --- 00/00 completed
+-   chapter-15 --- 00/00 completed
+-   chapter-16 --- 00/00 completed
+-   chapter-17 --- 00/00 completed
 
 <!---
   url links
 -->
 
 [1]: https://www.amazon.com/dp/0984782850/ref=cm_sw_r_cp_ep_dp_VrEkzbJNJGZKX
+[4]: https://github.com/Noko-Github/Cracking-the-Coding-Interview-6th-Python/tree/master/ch04-Trees-and-Graphs
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
+[2]: https://google.com
