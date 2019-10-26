@@ -12,8 +12,8 @@ I would appreciate. I hope this reopsitory help you in some way.
 
 -   chapter-01 --- 00/00 completed
 -   chapter-02 --- 00/00 completed
--   chapter-03 --- 00/00 completed
--   [chapter-04][4] --- 07/11 completed
+-   chapter-03 --- 05/06 completed
+-   [chapter-04][4] --- 09/12 completed
 -   chapter-05 --- 00/00 completed
 -   chapter-06 --- 00/00 completed
 -   chapter-07 --- 00/00 completed
