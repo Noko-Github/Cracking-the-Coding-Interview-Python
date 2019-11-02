@@ -6,14 +6,13 @@ def is_palindrome(node):
     first = slow = node
     stack = Stack()
 
-    while first.next is not None:
+    while first is not None and first.next is not None:
+        stack.push(slow.value)
         slow = slow.next
         first = first.next.next
-        stack.push(slow.value)
 
     if first is not None:
         slow = slow.next
-        stack.pop()
 
     while slow is not None and stack.is_empty() is False:
         if slow.value != stack.pop():
@@ -26,6 +25,7 @@ def is_palindrome(node):
 ll = LinkedList()
 ll.add_to_tail(1)
 ll.add_to_tail(2)
+ll.add_to_tail(3)
 ll.add_to_tail(3)
 ll.add_to_tail(2)
 ll.add_to_tail(1)
