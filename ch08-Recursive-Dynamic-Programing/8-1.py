@@ -1,7 +1,17 @@
-def count_ways(n):
+def count_ways(n, memo={}):
+    if n in memo:
+        return memo[n]
     if n < 0:
         return 0
     elif n == 0:
         return 1
     else:
-        return count_ways(n-1) + count_ways(n-2) + count_ways(n-3)
+        count = count_ways(n-1, memo) + count_ways(n-2,
+                                                   memo) + count_ways(n-3, memo)
+        memo[n] = count
+        return count
+
+
+n = 3
+memo = {}
+print(count_ways(n, memo))
