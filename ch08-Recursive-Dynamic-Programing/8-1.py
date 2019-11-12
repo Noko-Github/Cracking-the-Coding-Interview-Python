@@ -12,6 +12,6 @@ def count_ways(n, memo={}):
         return count
 
 
-n = 3
+n = 39
 memo = {}
 print(count_ways(n, memo))
