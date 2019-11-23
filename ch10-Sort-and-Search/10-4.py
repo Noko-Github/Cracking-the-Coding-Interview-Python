@@ -18,4 +18,5 @@ def binary_search(array, left, right, x):
 
 
 array = [1, 2, 5, 7, 9, 10, 11, 45, 66, 78, 91, 199, 201]
+x = 66
 index = search(array, x)
