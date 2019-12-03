@@ -8,24 +8,28 @@ class Tower:
         self.index = i
 
     def add(self, n):
-        self.disks.append(n)
-
-    def move_disks(self, n, origin, destination, buffer):
-        if n <= 0:
-            return None
-
-        self.move_disks(n-1, origin, buffer, destination)
-
-        self.move_top_to(self, destination)
-
-        self.move_disks(n-1, buffer, destination, origin)
+        if len(self.disks) != 0 and self.disks[-1] < n:
+            return False
+        else:
+            self.disks.append(n)
 
     def move_top_to(self, destination):
-        top = self.disks.pop()
-        self.destination.add(top)
+        if len(self.disks) > 0:
+            top = self.disks.pop()
+            destination.add(top)
+
+    def move_disks(self, n, destination, buffer):
+        if n > 0:
+            self.move_disks(n-1,  buffer, destination)
+
+            self.move_top_to(destination)
+
+            self.move_disks(n-1, destination, self)
 
 
 n = 3
 towers = [Tower(i) for i in range(3)]
-for i in n:
+for i in range(1, n+1):
     towers[0].add(i)
+
+towers[0].move_disks(n, towers[2], towers[1])
