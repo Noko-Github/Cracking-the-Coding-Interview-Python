@@ -2,6 +2,7 @@ class BitSet:
 
     def __init__(self, size):
         self.bitset = [0] * ((size >> 5)+1)
+        print(len(self.bitset))
 
     def get(self, pos):
         word_number = (pos >> 5)
