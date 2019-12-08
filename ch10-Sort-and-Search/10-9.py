@@ -20,5 +20,4 @@ matrix = [
 
 ]
 
-
 print(find_element(matrix, 80))
