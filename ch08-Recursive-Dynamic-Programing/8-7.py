@@ -28,14 +28,28 @@ def get_perms(string):
 def insert_char_at(word, c, i):
     start = word[0:i]
     end = word[i:]
-    print('-----------------------')
-    print('start:{}'.format(start))
-    print('c:{}'.format(c))
-    print('end:{}'.format(end))
-    print(start+c+end)
-    print('-----------------')
     return start + c + end
 
 
+def get_perms_(string):
+    permutations = []
+    result = []
+    if len(string) == 0:
+        permutations.append(" ")
+        return permutations
+
+    i = 0
+    for _ in string:
+        before = string[0:i]
+        after = string[i+1:]
+        perms = get_perms_(before+after)
+
+        for s in perms:
+            result.append(string[i]+s)
+        i += 1
+
+    return result
+
+
 string = 'abc'
-print(get_perms(string))
+print(get_perms_(string))
